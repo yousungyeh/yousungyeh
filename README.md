@@ -1,5 +1,5 @@
 ## 👋 You-Sung,Yeh 
-Hi, I'm YouSung! I am a graduate student in NTHU Electrical Engineering. I love learning new skills and technology of computer science and electrical engineering. Making new friends or spending time on socialization is my favorite things. Now I lived in Taoyuan city, Taiwan. 
+Hi, I'm YouSung! I am a graduate student in NTHU Electrical Engineering. I love learning new skills and technology of computer science and electrical engineering. Making new friends or spending time on socialization is my favorite things. Now I live in Taoyuan city, Taiwan. It’s my pleasure to have you here!
 
 ## 🤓 My values
 Beginner in GitHub!
@@ -9,6 +9,24 @@ Stay Hungry, Stay Foolish!
 Learning new computer languages or hardware design technology.
 Complete the master degree in NTHU.
 
+## 🧠 That I know and use
+### 📚 Languages and Frameworks
+- HTML5, CSS
+- JavaScript, TypeScript
+- C/C++, Python, Matlab, Verilog
+
+### 🔧 Tool
+- GitHub Version Control
+- Cocos Creator
+- Numpy, Pandas, Matplotlib
+- Scikit-learn, PyTorch, TensorFlow, Keras
+
+## 💡 Projects
+To be announced.
+
+## 🔗 Get in touch
+- Personal site: http://ms314006.github.io/
+- FB: https://www.facebook.com/profile.php?id=100002632542819
 
 <!--
 **yousungyeh/yousungyeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
