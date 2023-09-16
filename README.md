@@ -25,7 +25,7 @@ Complete the master degree in NTHU.
 To be announced.
 
 ## 🔗 Get in touch
-- Personal site: http://ms314006.github.io/
+- Personal site: https://github.com/yousungyeh/yousungyeh.git
 - FB: https://www.facebook.com/profile.php?id=100002632542819
 
 <!--
